@@ -96,4 +96,5 @@ resource "aws_instance" "app_instance" {
 ## Clouds
 
 ![image](https://user-images.githubusercontent.com/26543682/117801030-baba6080-b24b-11eb-9a17-c653e769e98d.png)
-![image](https://user-images.githubusercontent.com/26543682/117801087-c9a11300-b24b-11eb-98ad-463d8edf01c4.png)
+![image](https://user-images.githubusercontent.com/26543682/117801154-e1789700-b24b-11eb-9717-0d21ffe65c8f.png)
+
