@@ -94,5 +94,6 @@ resource "aws_instance" "app_instance" {
 
 ```
 ## Clouds
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/1066/1*LRFaWc35HsUyKikmrzD9qw.png;" vertex="1" parent="1"><mxGeometry x="-460" y="350" width="520" height="271" as="geometry"/></mxCell></root></mxGraphModel>
 
+![image](https://user-images.githubusercontent.com/26543682/117801030-baba6080-b24b-11eb-9a17-c653e769e98d.png)
+![image](https://user-images.githubusercontent.com/26543682/117801087-c9a11300-b24b-11eb-98ad-463d8edf01c4.png)
