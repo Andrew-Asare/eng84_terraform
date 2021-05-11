@@ -9,10 +9,9 @@
 - Allows to efficiently scale up/down to meet user demand
 - As Terraform uses declarative configuration files, it is cloud-independent, i.e. it works with AWS, GCP AZURE allowing for multiple cloud configuration
 
-# Other IAC Tools
+## Other IAC Tools
 
-- Orchestration with Terraform 
-- From an AMI to EC2 instance with customised configurationn
+
 
 
 
